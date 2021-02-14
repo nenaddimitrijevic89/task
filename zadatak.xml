@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<zadatak>
+    <menu>
+        <dropdown_link>Dropdown Link</dropdown_link>
+        <link>Link</link>
+        <link1>Link1</link1>
+        <link2>Link2</link2>
+        <link3>Link3</link3>
+    </menu>
+    <heading>
+        <heading1>Heading 1</heading1>
+        <heading4>Heading 4</heading4>
+        <headline3>Headline 3</headline3>
+        <headline4>Headline 4</headline4>
+    </heading>
+    <columns>
+        <table_head>
+            <column_group>COLUMN GROUP</column_group>
+            <column_group1>COLUMN 1</column_group1>
+            <column_group2>COLUMN 2</column_group2>
+            <column_group3>COLUMN 3</column_group3>
+            <column_group4>COLUMN 4</column_group4>
+            <column_group5>COLUMN 5</column_group5>
+            <column_group6>COLUMN 6</column_group6>
+        </table_head>
+        <table_content>
+            <rows>
+                <row>
+                    <value1>Value</value1>
+                    <value2>Value</value2>
+                    <value3>Value</value3>
+                    <value4>Value</value4>
+                    <value5>Value</value5>
+                    <value6>Value</value6>
+                </row>
+                <row>
+                    <value1>Value</value1>
+                    <value2>Value</value2>
+                    <value3>Value</value3>
+                    <value4>Value</value4>
+                    <value5>Value</value5>
+                    <value6>Value</value6>
+                </row>
+                <row>
+                    <value1>Value</value1>
+                    <value2>Value</value2>
+                    <value3>Value</value3>
+                    <value4>Value</value4>
+                    <value5>Value</value5>
+                    <value6>Value</value6>
+                </row>
+                <row>
+                    <value1>Value</value1>
+                    <value2>Value</value2>
+                    <value3>Value</value3>
+                    <value4>Value</value4>
+                    <value5>Value</value5>
+                    <value6>Value</value6>
+                </row>
+                <row>
+                    <value1>Value</value1>
+                    <value2>Value</value2>
+                    <value3>Value</value3>
+                    <value4>Value</value4>
+                    <value5>Value</value5>
+                    <value6>Value</value6>
+                </row>
+                <row>
+                    <value1>Value</value1>
+                    <value2>Value</value2>
+                    <value3>Value</value3>
+                    <value4>Value</value4>
+                    <value5>Value</value5>
+                    <value6>Value</value6>
+                </row>
+                <row>
+                    <value1>Value</value1>
+                    <value2>Value</value2>
+                    <value3>Value</value3>
+                    <value4>Value</value4>
+                    <value5>Value</value5>
+                    <value6>Value</value6>
+                </row>
+                <row>
+                    <value1>Value</value1>
+                    <value2>Value</value2>
+                    <value3>Value</value3>
+                    <value4>Value</value4>
+                    <value5>Value</value5>
+                    <value6>Value</value6>
+                </row>
+            </rows>
+        </table_content>
+        <table_total>
+            <total>Total</total>
+            <value1>Value</value1>
+            <value2>Value</value2>
+            <value3>Value</value3>
+        </table_total>
+    </columns>
+    <toggle>
+        <toggle_text1>Toggle #1</toggle_text1>
+        <toggle_text2>Toggle #2</toggle_text2>
+        <toggle_text3>Toggle #3</toggle_text3>
+        <toggle_text4>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</toggle_text4>
+        <toggle_text5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</toggle_text5>
+        <toggle_text6>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</toggle_text6>
+    </toggle>
+    <headline_text>
+        <headline_text1>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</headline_text1>
+        <headline_text2>The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</headline_text2>
+        <headline_text3>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</headline_text3>
+        <headline_text4>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy.</headline_text4>
+        <headline_text5>Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</headline_text5>
+    </headline_text>
+</zadatak> 

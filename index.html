@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Document</title>
+  </head>
+  <body>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+          <img src="./images/logo.png" alt="logo-img" class="logo">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse absolute" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"></a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown"></ul>
+              </li>
+            </ul>
+            <div class="navbar-nav me-auto mb-2 mb-lg-0 nav-second"></div>
+          </div>
+        </div>
+      </nav>
+      <div class="container-fluid" id="cover"><img class="cover" src="./images/cover.png" alt="cover-img"></div>
+      <div class="container">
+        <div class="row text-center" id="content"></div>
+        <div class="row" id="table">
+          <h2></h2>
+          <table class="table">
+            <thead id="head"></thead>
+            <tbody id="body"></tbody>
+            <tfoot id="foot"></tfoot>
+          </table>
+        </div>
+        <div class="row text-center" id='toggle'>
+          <div class="col-lg-3"><img src="./images/slika.png" class="toggle-image" alt="toggle-img"></div>
+          <div class="accordion col-lg-9" id="accordionExample"></div>  
+        </div>
+        <div class="row" id="headline3"></div>
+        <div class="row justify-content-center" id='form'>
+          <form class="col-lg-8 col-sm-12">
+            <div id="headline4"></div>
+            <div class="form-group">
+              <label for="subject">Subject</label>
+              <input type="text" class="form-control" id="subject">
+            </div>
+            <div class="form-group">
+              <label for="exampleFormControlInput1">Email address</label>
+              <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+            </div>
+            <div class="form-group">
+              <label for="exampleFormControlTextarea1">Example textarea</label>
+              <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            </div>
+            <div class="text-end">
+              <button type="button" class="btn btn-success">SEND</button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="container-fluid" id="footer">
+        <div class="container">
+          <div class="row foot-content">
+            <div id="foot-logo" class="col-lg-2 col-sm-12">
+              <img src="./images/logo.png" alt="logo-foot">
+            </div>
+            <div id="foot-text" class="text-white col-lg-2 col-sm-5">
+              <h6>LOREM IPSUM</h6>
+              <p>Lorem Ipsum Dolor Sit Lorem Ipsum Dolor Sit Lorem Ipsum Dolor Sit Amet</p>
+            </div>
+            <div class="form-group col-lg-6 col-sm-12">
+              <label for="exampleFormControlInput2" class="text-white">SUBSCRIBE FOR NEWSLETTER</label>
+              <input type="email" class="form-control" id="exampleFormControlInput2" placeholder="name@example.com">
+              <div class="text-end">
+                <button type="button" class="btn btn-warning">Subscribe</button>
+              </div>
+            </div>
+            <div class="col-lg-2 col-sm-12 logo-foot">
+              <img src="./images/bootstrap.png" alt="bootstrap-logo">
+            </div>
+          </div>
+        </div>
+      </div>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0"
+      crossorigin="anonymous"
+    ></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>

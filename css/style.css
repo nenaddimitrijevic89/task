@@ -1,0 +1,90 @@
+@media (min-width: 992px) {
+  .absolute {
+    position: absolute;
+    right: 12px;
+  }
+}
+.logo{
+  width: 100px;
+}
+.dropdown-menu{
+    position: absolute !important;
+}
+.absolute {
+  display: flex;
+}
+.nav-second {
+  display: flex;
+  flex-direction: row;
+}
+.nav-second span {
+  padding: 5px;
+}
+.cover {
+  width: 100%;
+}
+#cover {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+.select-div {
+  width: 250px;
+  height: 120px;
+  padding-top: 20px;
+  margin-top: 20px;
+}
+.div1 {
+  background-color: rgb(200, 0, 0);
+}
+.div2 {
+  background-color: grey;
+}
+.div3 {
+  background-color: orange;
+}
+#table{
+  margin-top: 40px;
+}
+.toggle-image{
+  width: 200px;
+  border-radius: 100px;
+  margin-bottom: 15px;
+}
+#toggle{
+  margin-top: 40px;
+}
+#headline3{
+  margin-top: 40px;
+}
+#form div{
+  margin-bottom: 10px;
+}
+#footer{
+  background-color: grey;
+  padding: 20px;
+}
+.foot-content div{
+  margin-top: 10px;
+}
+.logo-foot img{
+  width: 114px;
+  text-align: right;
+}
+th, td{
+  border: 1px solid black;
+}
+@media (max-width: 992px) {
+  .logo-foot{
+    text-align: left;
+  }
+}
+@media (max-width: 516px){
+    #content{
+      justify-content: center;
+    }
+}
